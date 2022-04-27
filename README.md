@@ -14,7 +14,7 @@
 
 - **添加文件**：将 `ept` 文件复制到本地仓库中
 
-- **注册模板**：修改索引文件：`index.json`，将模板的信息（文件名，分类，版本号，可读名称，作者名称...）注册到其中，可参考该 [pull request 示例](https://github.com/github0null/eide-templates/pull/1/commits/8994e21c7b0898f228b45649859b6a54eef1566e)
+- **注册模板**：修改索引文件：`index.json`，将模板的信息（文件名，分类，版本号，可读名称，作者名称...）注册到其中；可参考该 [提交记录](https://github.com/github0null/eide-templates/pull/1/commits/8994e21c7b0898f228b45649859b6a54eef1566e)
 
 - **推送仓库**：将更改后的本地仓库推送至 github 远程仓库中，然后创建 `pull request`，请求合并至主仓库，合并完成之后即可在 vscode 上直接使用
 
