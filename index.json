@@ -4,6 +4,14 @@
             "display_name": "MCU",
             "description": ""
         },
+        "MCU/AVR": {
+            "display_name": "AVR",
+            "description": ""
+        },
+        "MCU/AVR/ATmega": {
+            "display_name": "ATmega",
+            "description": ""
+        },
         "MCU/8051": {
             "display_name": "8051",
             "description": ""
@@ -214,6 +222,15 @@
         }
     },
     "template_list": [
+        {
+            "file_name": "avr_serial_loopback.8d14d461d4695fa76c8dc87bf3df09e6.ept",
+            "display_name": "avr serial demo (avr-gcc, ATmega128)",
+            "category": [
+                "MCU/AVR/ATmega"
+            ],
+            "version": "1.0",
+            "author": "github0null"
+        },
         {
             "file_name": "w806_demo.306d94b3aa6142f03edc1759f5409d85.ept",
             "display_name": "HLK-W806 demo (csky-elfabiv2, riscv, HLK-W806-KIT-V1.0)",
