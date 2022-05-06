@@ -24,6 +24,10 @@
             "display_name": "8051",
             "description": ""
         },
+        "MCU/WCH/CH58x": {
+            "display_name": "CH58x",
+            "description": ""
+        },
         "MCU/HLK": {
             "display_name": "HLK",
             "description": "海凌科"
