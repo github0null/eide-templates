@@ -645,10 +645,10 @@
             "author": "github0null"
         },
         {
-            "file_name": "ch58x_demo.eide-template",
-            "display_name": "CH58x demo (GCC Toolchain)",
+            "file_name": "ch582_demo.eide-template",
+            "display_name": "CH582 demo (GCC Toolchain)",
             "category": [
-                "MCU/WCH/CH58x"
+                "MCU/WCH/CH582"
             ],
             "version": "1.0",
             "author": "zerosensei"
