@@ -28,6 +28,14 @@
             "display_name": "CH58x",
             "description": ""
         },
+        "MCU/WCH/CH543": {
+            "display_name": "CH543",
+            "description": "E8051 PD MCU"
+        },
+        "MCU/WCH/CH32V307": {
+            "display_name": "CH32V307",
+            "description": "RISC-V MCU"
+        },
         "MCU/HLK": {
             "display_name": "HLK",
             "description": "海凌科"
