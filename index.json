@@ -24,10 +24,6 @@
             "display_name": "8051",
             "description": ""
         },
-        "MCU/WCH/CH58x": {
-            "display_name": "CH58x",
-            "description": ""
-        },
         "MCU/WCH/RISC-V": {
             "display_name": "RISC-V",
             "description": "RISC-V Series"
@@ -656,7 +652,7 @@
             "file_name": "ch582_demo.db7229070e7fe98bd5b1e904c5d670a8.ept",
             "display_name": "CH58x demo (GCC Toolchain)",
             "category": [
-                "MCU/WCH/CH58x"
+                "MCU/WCH/RISC-V"
             ],
             "version": "1.0",
             "author": "zerosensei"
