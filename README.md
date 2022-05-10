@@ -18,6 +18,14 @@
 
 - **推送仓库**：将更改后的本地仓库推送至 github 远程仓库中，然后创建 `pull request`，请求合并至主仓库，合并完成之后即可在 vscode 上直接使用
 
+## 注意事项
+
+- 不清楚如何修改/添加模板的，可以参考该 [提交记录](https://github.com/github0null/eide-templates/pull/1/commits/8994e21c7b0898f228b45649859b6a54eef1566e#diff-7aebb122a6ea8a2749d60cb05b7e103c9eae6e2e85e48d2d6cd9e20b63013975)
+
+- 设置模板分类时，尽量为模板选择**已存在**的分类，若要新建分类，应该使用**更具代表性的名称**，而不是只是用 `芯片系列名`，因为插件会根据这个分类生成树状列表方便查看和检索，如果你使用的分类粒度过细，反而不会便于快速选择
+
+- 在提交 `pull-request` 之前，可以修改插件设置：`EIDE.Repository.Template.Url` 将模板仓库临时修改为你自己的仓库分支，然后新建项目进行测试，一切 ok 后，再 `pull-request`
+
 ## 模板索引格式
 
 模板索引文件 index.json 存放了所有的模板的信息，该文件是一个 `TemplateIndexDef` 类型的 json 对象，定义如下：
