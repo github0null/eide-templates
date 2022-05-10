@@ -28,6 +28,10 @@
             "display_name": "CH58x",
             "description": ""
         },
+        "MCU/WCH/RISC-V": {
+            "display_name": "RISC-V",
+            "description": "RISC-V Series"
+        },
         "MCU/HLK": {
             "display_name": "HLK",
             "description": "海凌科"
@@ -656,6 +660,25 @@
             ],
             "version": "1.0",
             "author": "zerosensei"
+        },
+        {
+            "file_name": "ch543_eide_sdcc_demo.ept",
+            "display_name": "ch543 demo (SDCC Toolchain)",
+            "category": [
+                "MCU/WCH/8051"
+            ],
+            "version": "1.0",
+            "author": "taoyukai"
+        },
+        {
+            "file_name": "ch32v307_eide_demo.ept",
+            "display_name": "ch32v307 demo (GCC Toolchain)",
+            "category": [
+                "MCU/WCH/RISC-V"
+            ],
+            "version": "1.0",
+            "author": "taoyukai"
         }
+
     ]
 }
