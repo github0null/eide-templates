@@ -235,8 +235,8 @@
     },
     "template_list": [
         {
-            "file_name": "cw32f003fx_template.ad7ad50a29da608c7ab19c9305c60108.ept",
-            "display_name": "cw32f003fx template (armcc, jlink)",
+            "file_name": "cw32f003fx_template.ept",
+            "display_name": "cw32f003fx template (armcc, jlink, RTT_Viewer)",
             "category": [
                 "MCU/PS/CW32"
             ],
