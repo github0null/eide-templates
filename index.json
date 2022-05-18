@@ -184,6 +184,14 @@
             "display_name": "nRF52 Series",
             "description": ""
         },
+        "MCU/PS": {
+            "display_name": "PS",
+            "description": "芯源半导体"
+        },
+        "MCU/PS/CW32": {
+            "display_name": "CW32xx Series",
+            "description": ""
+        },
         "RTOS": {
             "display_name": "RTOS",
             "description": "(Real-Time Operating System)"
@@ -226,6 +234,15 @@
         }
     },
     "template_list": [
+        {
+            "file_name": "cw32f003fx_template.ad7ad50a29da608c7ab19c9305c60108.ept",
+            "display_name": "cw32f003fx template (armcc, jlink)",
+            "category": [
+                "MCU/PS/CW32"
+            ],
+            "version": "1.0",
+            "author": "github0null"
+        },
         {
             "file_name": "avr_serial_loopback.8d14d461d4695fa76c8dc87bf3df09e6.ept",
             "display_name": "avr serial demo (avr-gcc, ATmega128)",
