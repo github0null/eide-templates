@@ -28,6 +28,10 @@
             "display_name": "RISC-V",
             "description": "RISC-V Series"
         },
+        "MCU/WCH/ARM": {
+            "display_name": "ARM",
+            "description": "ARM Series"
+        },
         "MCU/HLK": {
             "display_name": "HLK",
             "description": "海凌科"
