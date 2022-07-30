@@ -697,21 +697,12 @@
             "author": "taoyukai"
         },
         {
-            "file_name": "ch32f103_template_armcc.ept",
-            "display_name": "CH32F103 (ARMCC)",
+            "file_name": "ch32f103_template.ept",
+            "display_name": "CH32F103 (ARMCC, GCC toolchain)",
             "category": [
                 "MCU/WCH/ARM"
             ],
-            "version": "1.1",
-            "author": "yunline"
-        },
-        {
-            "file_name": "ch32f103_template_gcc.ept",
-            "display_name": "CH32F103 (GCC Toolchain)",
-            "category": [
-                "MCU/WCH/ARM"
-            ],
-            "version": "1.1",
+            "version": "1.0",
             "author": "yunline"
         }
     ]
