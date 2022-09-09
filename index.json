@@ -196,6 +196,18 @@
             "display_name": "CW32xx Series",
             "description": ""
         },
+        "MCU/Nations": {
+            "display_name": "Nations",
+            "description": "国民技术"
+        },
+        "MCU/Nations/M0": {
+            "display_name": "M0",
+            "description": "Cortex-M0 Series"
+        },
+        "MCU/Nations/M4": {
+            "display_name": "M4",
+            "description": "Cortex-M4 Series"
+        },
         "RTOS": {
             "display_name": "RTOS",
             "description": "(Real-Time Operating System)"
@@ -704,6 +716,60 @@
             ],
             "version": "1.2",
             "author": "stars-under"
+        },
+        {
+            "file_name": "N32G45x_demo.ept",
+            "display_name": "N32G45x Demo (ARMCC, GCC toolchain)",
+            "category": [
+                "MCU/Nations/M4"
+            ],
+            "version": "1.0",
+            "author": "Persama"
+        },
+        {
+            "file_name": "N32G43x_demo.ept",
+            "display_name": "N32G43x Demo (ARMCC, GCC toolchain)",
+            "category": [
+                "MCU/Nations/M4"
+            ],
+            "version": "1.0",
+            "author": "Persama"
+        },
+        {
+            "file_name": "N32L43x_demo.ept",
+            "display_name": "N32L43x Demo (ARMCC, GCC toolchain)",
+            "category": [
+                "MCU/Nations/M4"
+            ],
+            "version": "1.0",
+            "author": "Persama"
+        },
+        {
+            "file_name": "N32L40x_demo.ept",
+            "display_name": "N32L40x Demo (ARMCC, GCC toolchain)",
+            "category": [
+                "MCU/Nations/M4"
+            ],
+            "version": "1.0",
+            "author": "Persama"
+        },
+        {
+            "file_name": "N32G032_demo.ept",
+            "display_name": "N32G032 Demo (ARMCC)",
+            "category": [
+                "MCU/Nations/M0"
+            ],
+            "version": "1.0",
+            "author": "Persama"
+        },
+        {
+            "file_name": "N32G031_demo.ept",
+            "display_name": "N32G031 Demo (ARMCC)",
+            "category": [
+                "MCU/Nations/M0"
+            ],
+            "version": "1.0",
+            "author": "Persama"
         }
     ]
 }
