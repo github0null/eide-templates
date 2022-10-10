@@ -691,15 +691,6 @@
             "author": "taoyukai"
         },
         {
-            "file_name": "ch32v307_eide_demo.ept",
-            "display_name": "ch32v307 demo (GCC Toolchain)",
-            "category": [
-                "MCU/WCH/RISC-V"
-            ],
-            "version": "1.1",
-            "author": "taoyukai"
-        },
-        {
             "file_name": "ch32f103_template.ept",
             "display_name": "CH32F103 (ARMCC, GCC toolchain)",
             "category": [
@@ -770,6 +761,42 @@
             ],
             "version": "1.0",
             "author": "Persama"
+        },
+        {
+            "file_name": "ch32v307_eide_hello_world.ept",
+            "display_name": "ch32v307 hello world (GCC Toolchain)",
+            "category": [
+                "MCU/WCH/RISC-V"
+            ],
+            "version": "1.2",
+            "author": "taoyukai"
+        },
+        {
+            "file_name": "ch32v003_eide_hello_world.ept",
+            "display_name": "ch32v003 hello world (GCC Toolchain)",
+            "category": [
+                "MCU/WCH/RISC-V"
+            ],
+            "version": "1.0",
+            "author": "taoyukai"
+        },
+        {
+            "file_name": "ch32v203_eide_hello_world.ept",
+            "display_name": "ch32v203 hello world (GCC Toolchain)",
+            "category": [
+                "MCU/WCH/RISC-V"
+            ],
+            "version": "1.0",
+            "author": "taoyukai"
+        },
+        {
+            "file_name": "ch32v208_eide_hello_world.ept",
+            "display_name": "ch32v208 hello world (GCC Toolchain)",
+            "category": [
+                "MCU/WCH/RISC-V"
+            ],
+            "version": "1.0",
+            "author": "taoyukai"
         }
     ]
 }
