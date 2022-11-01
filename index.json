@@ -279,7 +279,7 @@
         },
         {
             "file_name": "nrf52832_ble_app_templete.ept",
-            "display_name": "nRF52832_xxaa ble app template (s132 6.1.0) (sdk 17.0.2) (gcc) (armcc)",
+            "display_name": "nRF52832_xxaa ble app template (s132 6.1.0) (gcc) (armcc)",
             "category": [
                 "MCU/Nordic/nRF52",
                 "Board/Nordic"
