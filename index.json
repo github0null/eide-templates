@@ -416,13 +416,13 @@
             "author": "github0null"
         },
         {
-            "file_name": "hk32f030m_demo.eide-template",
-            "display_name": "HK32F030Mxx Demo (ARMCC toolchain only)",
+            "file_name": "hk32f030m_demo.ept",
+            "display_name": "HK32F030Mxx Demo (ARMCC, GCC toolchain)",
             "category": [
                 "MCU/HK/HK32/F0"
             ],
-            "version": "1.1",
-            "author": "github0null"
+            "version": "1.2",
+            "author": "yunline"
         },
         {
             "file_name": "gd_gd32f103c8_demo.eide-template",
