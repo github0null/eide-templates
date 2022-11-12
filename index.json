@@ -251,6 +251,16 @@
     },
     "template_list": [
         {
+            "file_name": "null",
+            "display_name": "w801 template (c-sky) (ble) (wifi)",
+            "git_clone_url": "https://github.com/github0null/w801_vsc_eide_template",
+            "category": [
+                "MCU/HLK/W80X"
+            ],
+            "version": "1.0",
+            "author": "github0null"
+        },
+        {
             "file_name": "cw32f003fx_template.ept",
             "display_name": "cw32f003fx template (armcc, jlink, RTT_Viewer)",
             "category": [
