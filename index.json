@@ -48,6 +48,10 @@
             "display_name": "STC15",
             "description": "STC15 Series"
         },
+        "MCU/STC/STC8": {
+            "display_name": "STC8",
+            "description": "STC8 Series"
+        },
         "MCU/ES": {
             "display_name": "EastSoft",
             "description": "东软载波"
@@ -532,6 +536,15 @@
             ],
             "version": "1.1",
             "author": "github0null"
+        },
+        {
+            "file_name": "stc8g_stc8h_sdcc_demo.ept",
+            "display_name": "STC8G/H Demo (SDCC Toolchain)",
+            "category": [
+                "MCU/STC/STC8"
+            ],
+            "version": "1.1",
+            "author": "yunline"
         },
         {
             "file_name": "n76e003_demo.eide-template",
