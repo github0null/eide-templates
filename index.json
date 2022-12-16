@@ -741,6 +741,15 @@
             "author": "Persama"
         },
         {
+            "file_name": "N32G4FR_demo.ept",
+            "display_name": "N32G4FR Demo (ARMCC, GCC toolchain)",
+            "category": [
+                "MCU/Nations/M4"
+            ],
+            "version": "1.0",
+            "author": "Persama"
+        },
+        {
             "file_name": "N32G43x_demo.ept",
             "display_name": "N32G43x Demo (ARMCC, GCC toolchain)",
             "category": [
@@ -768,6 +777,15 @@
             "author": "Persama"
         },
         {
+            "file_name": "N32G430_demo.ept",
+            "display_name": "N32G430 Demo (ARMCC, GCC toolchain)",
+            "category": [
+                "MCU/Nations/M4"
+            ],
+            "version": "1.0",
+            "author": "Persama"
+        },
+        {
             "file_name": "N32G032_demo.ept",
             "display_name": "N32G032 Demo (ARMCC)",
             "category": [
@@ -779,6 +797,15 @@
         {
             "file_name": "N32G031_demo.ept",
             "display_name": "N32G031 Demo (ARMCC)",
+            "category": [
+                "MCU/Nations/M0"
+            ],
+            "version": "1.1",
+            "author": "Persama"
+        },
+        {
+            "file_name": "N32G030_demo.ept",
+            "display_name": "N32G030 Demo (ARMCC)",
             "category": [
                 "MCU/Nations/M0"
             ],
