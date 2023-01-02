@@ -613,16 +613,6 @@
             "author": "github0null"
         },
         {
-            "file_name": "stm32f1xx_uCOS-II_quickstart.eide-template",
-            "display_name": "STM32F1XX Blink Demo (uCOS-II)",
-            "category": [
-                "MCU/ST/STM32/STM32F1",
-                "RTOS/uCOS-II"
-            ],
-            "version": "1.1",
-            "author": "github0null"
-        },
-        {
             "file_name": "stm32f4xx_cubemx_demo.ept",
             "display_name": "STM32F407 Blink Demo (STM32CubeMX, GCC)",
             "category": [
@@ -651,13 +641,13 @@
             "author": "github0null"
         },
         {
-            "file_name": "stm32f103c8_ucos-ii_cubeMX_demo.eide-template",
-            "display_name": "STM32F103C8 Demo (uCOS-II, STM32CubeMX)",
+            "file_name": "stm32f103c8_cubemx_ucos-ii.b016428657d6fb81ab5f7ae231c1c98d.ept",
+            "display_name": "STM32F103C8 Blink Demo (uCOS-II, STM32CubeMX, ARMCC)",
             "category": [
                 "MCU/ST/STM32/STM32F1",
                 "RTOS/uCOS-II"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
