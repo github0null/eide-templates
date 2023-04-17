@@ -556,8 +556,17 @@
             "author": "github0null"
         },
         {
+            "file_name": "stm8s103f3_quickstart_cosmic.ept",
+            "display_name": "STM8S103F3 Quickstart (COSMIC Compiler) (Blink)",
+            "category": [
+                "MCU/ST/STM8/STM8S"
+            ],
+            "version": "1.0",
+            "author": "github0null"
+        },
+        {
             "file_name": "stm8s103f3_quickstart.eide-template",
-            "display_name": "STM8S103F3 Demo (Blink)",
+            "display_name": "STM8S103F3 Quickstart (Blink)",
             "category": [
                 "MCU/ST/STM8/STM8S"
             ],
@@ -566,7 +575,7 @@
         },
         {
             "file_name": "stm8s103f3_dht11_sensor_quickstart.eide-template",
-            "display_name": "STM8S103F3 Demo (DHT11 Sensor)",
+            "display_name": "STM8S103F3 Quickstart (DHT11 Sensor)",
             "category": [
                 "MCU/ST/STM8/STM8S"
             ],
@@ -575,7 +584,7 @@
         },
         {
             "file_name": "stm8s103f3_oled_quickstart.eide-template",
-            "display_name": "STM8S103F3 Demo (OLED SSD1306)",
+            "display_name": "STM8S103F3 Quickstart (OLED SSD1306)",
             "category": [
                 "MCU/ST/STM8/STM8S"
             ],
@@ -584,7 +593,7 @@
         },
         {
             "file_name": "stm8s103f3_sdcc_quickstart.eide-template",
-            "display_name": "STM8S103F3 Demo (SDCC Toolchain)",
+            "display_name": "STM8S103F3 Quickstart (SDCC Toolchain)",
             "category": [
                 "MCU/ST/STM8/STM8S"
             ],
