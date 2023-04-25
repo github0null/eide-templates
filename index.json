@@ -212,6 +212,14 @@
             "display_name": "M4",
             "description": "Cortex-M4 Series"
         },
+        "MCU/Arterytek": {
+            "display_name": "Arterytek",
+            "description": "雅特力"
+        },
+        "MCU/Arterytek/AT32F4": {
+            "display_name": "AT32F4",
+            "description": ""
+        },
         "RTOS": {
             "display_name": "RTOS",
             "description": "(Real-Time Operating System)"
@@ -846,6 +854,15 @@
             ],
             "version": "1.0",
             "author": "taoyukai"
+        },
+        {
+            "file_name": "at32f421_eide_hello_world.ept",
+            "display_name": "at32f421 hello world (GCC Toolchain)",
+            "category": [
+                "MCU/Arterytek/AT32F4"
+            ],
+            "version": "1.0",
+            "author": "hexone2086"
         }
     ]
 }
