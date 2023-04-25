@@ -212,7 +212,7 @@
             "display_name": "M4",
             "description": "Cortex-M4 Series"
         },
-        "MCU/Arterytek/": {
+        "MCU/Arterytek": {
             "display_name": "AT",
             "description": "雅特力"
         },
