@@ -863,6 +863,15 @@
             ],
             "version": "1.0",
             "author": "hexone2086"
+        },
+        {
+            "file_name": "PIC32MZ1024EFG144.ept",
+            "display_name": "PIC32MZ1024EFG144 Demo",
+            "version": "1.0",
+            "category": [
+                "MCU/PIC"
+            ],
+            "author": "eatradish"
         }
     ]
 }
