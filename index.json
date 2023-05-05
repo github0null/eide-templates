@@ -834,8 +834,8 @@
             "category": [
                 "MCU/WCH/RISC-V"
             ],
-            "version": "1.0",
-            "author": "taoyukai"
+            "version": "1.2",
+            "author": "taoyukai,smalllin0"
         },
         {
             "file_name": "ch32v203_eide_hello_world.ept",
