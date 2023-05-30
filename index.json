@@ -739,12 +739,21 @@
             "author": "stars-under"
         },
         {
+            "file_name": "N32A455_demo.ept",
+            "display_name": "N32A455 Demo (ARMCC, GCC toolchain)",
+            "category": [
+                "MCU/Nations/M4"
+            ],
+            "version": "1.0",
+            "author": "Persama"
+        },
+        {
             "file_name": "N32G45x_demo.ept",
             "display_name": "N32G45x Demo (ARMCC, GCC toolchain)",
             "category": [
                 "MCU/Nations/M4"
             ],
-            "version": "1.0",
+            "version": "1.1",
             "author": "Persama"
         },
         {
@@ -753,7 +762,7 @@
             "category": [
                 "MCU/Nations/M4"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "Persama"
         },
         {
@@ -762,7 +771,7 @@
             "category": [
                 "MCU/Nations/M4"
             ],
-            "version": "1.0",
+            "version": "1.1",
             "author": "Persama"
         },
         {
@@ -771,7 +780,7 @@
             "category": [
                 "MCU/Nations/M4"
             ],
-            "version": "1.0",
+            "version": "1.1",
             "author": "Persama"
         },
         {
@@ -780,12 +789,21 @@
             "category": [
                 "MCU/Nations/M4"
             ],
-            "version": "1.0",
+            "version": "1.1",
             "author": "Persama"
         },
         {
             "file_name": "N32G430_demo.ept",
             "display_name": "N32G430 Demo (ARMCC, GCC toolchain)",
+            "category": [
+                "MCU/Nations/M4"
+            ],
+            "version": "1.1",
+            "author": "Persama"
+        },
+        {
+            "file_name": "N32G401_demo.ept",
+            "display_name": "N32G401 Demo (ARMCC)",
             "category": [
                 "MCU/Nations/M4"
             ],
@@ -798,7 +816,7 @@
             "category": [
                 "MCU/Nations/M0"
             ],
-            "version": "1.0",
+            "version": "1.1",
             "author": "Persama"
         },
         {
@@ -807,12 +825,21 @@
             "category": [
                 "MCU/Nations/M0"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "Persama"
         },
         {
             "file_name": "N32G030_demo.ept",
             "display_name": "N32G030 Demo (ARMCC)",
+            "category": [
+                "MCU/Nations/M0"
+            ],
+            "version": "1.1",
+            "author": "Persama"
+        },
+        {
+            "file_name": "N32G003_demo.ept",
+            "display_name": "N32G003 Demo (ARMCC)",
             "category": [
                 "MCU/Nations/M0"
             ],
