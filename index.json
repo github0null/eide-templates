@@ -144,6 +144,10 @@
             "display_name": "PIC16",
             "description": "PIC 16bit"
         },
+        "MCU/PIC/PIC32": {
+            "display_name": "PIC32",
+            "description": "PIC 32bit"
+        },
         "MCU/Padauk": {
             "display_name": "Padauk",
             "description": "应广"
@@ -890,6 +894,15 @@
             ],
             "version": "1.0",
             "author": "hexone2086"
+        },
+        {
+            "file_name": "PIC32MZ1024EFG144.ept",
+            "display_name": "PIC32MZ1024EFG144 Demo",
+            "version": "1.0",
+            "category": [
+                "MCU/PIC/PIC32"
+            ],
+            "author": "eatradish"
         }
     ]
 }
