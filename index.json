@@ -224,6 +224,10 @@
             "display_name": "AT32F4",
             "description": ""
         },
+        "MCU/gemini": {
+            "display_name": "gemini",
+            "description": "Gemini Development Board"
+        },
         "RTOS": {
             "display_name": "RTOS",
             "description": "(Real-Time Operating System)"
@@ -901,6 +905,14 @@
             "version": "1.0",
             "category": [
                 "MCU/PIC/PIC32"
+            ]
+        },
+        {
+            "file_name": "gemini.ept",
+            "display_name": "Gemini Development Board Demo",
+            "version": "1.0",
+            "category": [
+                "MCU/gemini"
             ],
             "author": "eatradish"
         }
