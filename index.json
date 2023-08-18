@@ -915,6 +915,15 @@
                 "MCU/gemini"
             ],
             "author": "eatradish"
-        }
+        },       
+        {
+            "file_name": "at32f403a_template.ept",
+            "display_name": "at32f421 template (GCC Toolchain)",
+            "category": [
+                "MCU/Arterytek/AT32F4"
+            ],
+            "version": "1.0",
+            "author": "bobyang521"
+        },
     ]
 }
