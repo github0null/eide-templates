@@ -971,6 +971,15 @@
             "author": "bobyang521"
         },
         {
+            "file_name": "at32f423_template.ept",
+            "display_name": "at32f423 template (GCC Toolchain)",
+            "category": [
+                "MCU/Arterytek/AT32F4"
+            ],
+            "version": "1.0",
+            "author": "bobyang521"
+        },
+        {
             "file_name": "at32f425_template.ept",
             "display_name": "at32f425 template (GCC Toolchain)",
             "category": [
