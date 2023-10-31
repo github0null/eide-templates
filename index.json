@@ -518,6 +518,15 @@
             "author": "github0null"
         },
         {
+            "file_name": "HC32L136_demo.ept",
+            "display_name": "HC32L136 Demo (for HC32L136K8TA)",
+            "category": [
+                "MCU/HDSC/HC32L"
+            ],
+            "version": "1.0",
+            "author": "CAESIUS-TIM"
+        },
+        {
             "file_name": "mcs51_sdcc_dht11_quickstart.eide-template",
             "display_name": "8051 DHT11 Demo (SDCC Toolchain)",
             "category": [
