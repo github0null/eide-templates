@@ -641,7 +641,7 @@
                 "MCU/MindMotion/MM32F"
             ],
             "version": "1.1",
-            "author": "github0null"
+            "author": "AllenMaa"
         },
         {
             "file_name": "stm32f1xx_uart_demo.eide-template",
