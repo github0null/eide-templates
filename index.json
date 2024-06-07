@@ -635,6 +635,15 @@
             "author": "github0null"
         },
         {
+            "file_name": "mm32f0160_quickstart.eide-template",
+            "display_name": "MM32F0160 Demo (ARM GCC Toolchain)",
+            "category": [
+                "MCU/MindMotion/MM32F"
+            ],
+            "version": "1.1",
+            "author": "AllenMaa"
+        },
+        {
             "file_name": "stm32f1xx_uart_demo.eide-template",
             "display_name": "STM32F1XX USART Demo (Keil CMSIS pack)",
             "category": [
@@ -924,7 +933,7 @@
                 "MCU/gemini"
             ],
             "author": "eatradish"
-        },        
+        },
         {
             "file_name": "at32f403_template.ept",
             "display_name": "at32f403 template (GCC Toolchain)",
