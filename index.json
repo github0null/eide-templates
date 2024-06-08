@@ -2,7 +2,7 @@
     "category_map": {
         "MCU": {
             "display_name": "MCU",
-            "description": ""
+            "description": "裸机程序模板（Bare MCU Templates）"
         },
         "MCU/AVR": {
             "display_name": "AVR",
@@ -230,7 +230,7 @@
         },
         "RTOS": {
             "display_name": "RTOS",
-            "description": "(Real-Time Operating System)"
+            "description": "实时操作系统模板（Real-Time Operating System Templates）"
         },
         "RTOS/FreeRTOS": {
             "display_name": "FreeRTOS",
@@ -250,7 +250,7 @@
         },
         "Board": {
             "display_name": "BSP",
-            "description": "(For Dev Boards)"
+            "description": "开发板模板（Development Board Templates）"
         },
         "Board/K210": {
             "display_name": "K210",
