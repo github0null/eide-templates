@@ -1,7 +1,7 @@
 {
     "category_map": {
         "MCU": {
-            "display_name": "MCU",
+            "display_name": "Bare MCU",
             "description": "裸机程序模板（Bare MCU Templates）"
         },
         "MCU/AVR": {
@@ -249,7 +249,7 @@
             "description": ""
         },
         "Board": {
-            "display_name": "BSP",
+            "display_name": "Dev Board",
             "description": "开发板模板（Development Board Templates）"
         },
         "Board/K210": {
