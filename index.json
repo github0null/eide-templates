@@ -635,7 +635,7 @@
             "author": "github0null"
         },
         {
-            "file_name": "mm32f0160_quickstart.eide-template",
+            "file_name": "mm32f0160_quickstart.eide-template.ept",
             "display_name": "MM32F0160 Demo (ARM GCC Toolchain)",
             "category": [
                 "MCU/MindMotion/MM32F"
