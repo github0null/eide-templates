@@ -720,13 +720,13 @@
             "author": "github0null"
         },
         {
-            "file_name": "ch582_demo.ept",
+            "file_name": "ch58x.ept",
             "display_name": "CH58x demo (GCC Toolchain)",
             "category": [
                 "MCU/WCH/RISC-V"
             ],
-            "version": "1.1",
-            "author": "zerosensei"
+            "version": "1.2",
+            "author": "zerosensei,github0null"
         },
         {
             "file_name": "ch543_eide_sdcc_demo.ept",
