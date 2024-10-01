@@ -286,7 +286,7 @@
             "category": [
                 "MCU/PS/CW32"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -295,7 +295,7 @@
             "category": [
                 "MCU/AVR/ATmega"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -304,7 +304,7 @@
             "category": [
                 "MCU/HLK/W80X"
             ],
-            "version": "1.5",
+            "version": "1.6",
             "author": "github0null"
         },
         {
@@ -352,7 +352,7 @@
             "category": [
                 "MCU/Padauk/MTP"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -361,7 +361,7 @@
             "category": [
                 "MCU/PIC/PIC16"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -370,7 +370,7 @@
             "category": [
                 "MCU/PIC/PIC14"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -379,7 +379,7 @@
             "category": [
                 "MCU/ST/STM32/C++"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -388,7 +388,7 @@
             "category": [
                 "MCU/ST/STM32/C++"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -397,7 +397,7 @@
             "category": [
                 "MCU/ST/STM32/C++"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -406,7 +406,7 @@
             "category": [
                 "MCU/ST/STM32/C++"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -415,7 +415,7 @@
             "category": [
                 "MCU/ST/STM32/C++"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -424,7 +424,7 @@
             "category": [
                 "Board/K210/C++"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -433,7 +433,7 @@
             "category": [
                 "MCU/WCH/8051"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -460,7 +460,7 @@
             "category": [
                 "MCU/GD32/F1"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -469,7 +469,7 @@
             "category": [
                 "MCU/GD32/RISCV/F1"
             ],
-            "version": "1.2",
+            "version": "1.3",
             "author": "github0null"
         },
         {
@@ -478,7 +478,7 @@
             "category": [
                 "MCU/Nuvoton/M0"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -487,25 +487,7 @@
             "category": [
                 "MCU/Nuvoton/M0"
             ],
-            "version": "1.1",
-            "author": "github0null"
-        },
-        {
-            "file_name": "MS51XC0AE_demo.eide-template",
-            "display_name": "MS51XC0AE Demo (Keil C51 Toolchain)",
-            "category": [
-                "MCU/Nuvoton/8051/MS51"
-            ],
-            "version": "1.1",
-            "author": "github0null"
-        },
-        {
-            "file_name": "MS51XB9AE_demo.eide-template",
-            "display_name": "MS51XB9AE/MS51XB9BE Demo (Keil C51 Toolchain)",
-            "category": [
-                "MCU/Nuvoton/8051/MS51"
-            ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -532,7 +514,7 @@
             "category": [
                 "MCU/8051"
             ],
-            "version": "1.3",
+            "version": "1.4",
             "author": "github0null"
         },
         {
@@ -541,7 +523,7 @@
             "category": [
                 "MCU/8051"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -550,7 +532,7 @@
             "category": [
                 "MCU/STC/STC15"
             ],
-            "version": "1.2",
+            "version": "1.3",
             "author": "github0null"
         },
         {
@@ -559,7 +541,7 @@
             "category": [
                 "MCU/STC/STC15"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -577,7 +559,7 @@
             "category": [
                 "MCU/Nuvoton/8051/N7XE"
             ],
-            "version": "1.3",
+            "version": "1.4",
             "author": "github0null"
         },
         {
@@ -595,7 +577,7 @@
             "category": [
                 "MCU/ST/STM8/STM8S"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -604,7 +586,7 @@
             "category": [
                 "MCU/ST/STM8/STM8S"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -613,7 +595,7 @@
             "category": [
                 "MCU/ST/STM8/STM8S"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -631,7 +613,7 @@
             "category": [
                 "MCU/MindMotion/MM32F"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -649,7 +631,7 @@
             "category": [
                 "MCU/ST/STM32/STM32F1"
             ],
-            "version": "1.2",
+            "version": "1.3",
             "author": "github0null"
         },
         {
@@ -658,7 +640,7 @@
             "category": [
                 "MCU/ST/STM32/STM32F1"
             ],
-            "version": "1.2",
+            "version": "1.3",
             "author": "github0null"
         },
         {
@@ -668,7 +650,7 @@
                 "MCU/ST/STM32/STM32F1",
                 "RTOS/FreeRTOS"
             ],
-            "version": "1.2",
+            "version": "1.3",
             "author": "github0null"
         },
         {
@@ -687,7 +669,7 @@
             "category": [
                 "MCU/ST/STM32/STM32F4"
             ],
-            "version": "1.3",
+            "version": "1.4",
             "author": "github0null"
         },
         {
@@ -697,7 +679,7 @@
                 "MCU/ST/STM32/STM32F4",
                 "RTOS/FreeRTOS"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -706,7 +688,7 @@
             "category": [
                 "MCU/ST/STM32/STM32F1"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -734,7 +716,7 @@
             "category": [
                 "MCU/WCH/8051"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "taoyukai"
         },
         {
@@ -752,7 +734,7 @@
             "category": [
                 "MCU/WCH/RISC-V"
             ],
-            "version": "1.2",
+            "version": "1.3",
             "author": "stars-under"
         },
         {
