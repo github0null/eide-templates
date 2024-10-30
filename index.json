@@ -635,12 +635,12 @@
             "author": "github0null"
         },
         {
-            "file_name": "stm32f1xx_gcc_quickstart.eide-template",
+            "file_name": "stm32f1xx_gcc_quickstart.ept",
             "display_name": "STM32F1XX Blink Demo (GCC Toolchain)",
             "category": [
                 "MCU/ST/STM32/STM32F1"
             ],
-            "version": "1.3",
+            "version": "1.4",
             "author": "github0null"
         },
         {
@@ -683,12 +683,12 @@
             "author": "github0null"
         },
         {
-            "file_name": "stm32f103c8_cubeMX_demo.eide-template",
+            "file_name": "stm32f103c8_cubeMX_demo.ept",
             "display_name": "STM32F103C8 Demo (STM32CubeMX)",
             "category": [
                 "MCU/ST/STM32/STM32F1"
             ],
-            "version": "1.2",
+            "version": "1.3",
             "author": "github0null"
         },
         {
