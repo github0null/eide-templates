@@ -279,6 +279,16 @@
     },
     "template_list": [
         {
+            "file_name": "null",
+            "display_name": "CW32L010 Template",
+            "git_clone_url": "https://github.com/Ankali-Aylina/CW32L010-EIDE-template",
+            "category": [
+                "MCU/PS/CW32"
+            ],
+            "version": "1.0",
+            "author": "Ankali-Aylina"
+        },
+        {
             "file_name": "PY32F002AF15P6TU.ept",
             "display_name": "PY32F002A quickstart (gcc)",
             "category": [
