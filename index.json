@@ -156,6 +156,14 @@
             "display_name": "MTP",
             "description": "PF[S|C] Series"
         },
+        "MCU/PuYa": {
+            "display_name": "PuYa",
+            "description": "普冉"
+        },
+        "MCU/PuYa/F0": {
+            "display_name": "PY32F0",
+            "description": "PY32F0 Series"
+        },
         "MCU/MindMotion": {
             "display_name": "MindMotion",
             "description": "灵动"
@@ -271,6 +279,15 @@
     },
     "template_list": [
         {
+            "file_name": "PY32F002AF15P6TU.ept",
+            "display_name": "PY32F002A quickstart (gcc)",
+            "category": [
+                "MCU/PuYa/F0"
+            ],
+            "version": "1.0",
+            "author": "github0null"
+        },
+        {
             "file_name": "null",
             "display_name": "w801 template (c-sky) (ble) (wifi)",
             "git_clone_url": "https://github.com/github0null/w801_vsc_eide_template",
@@ -347,12 +364,12 @@
             "author": "github0null"
         },
         {
-            "file_name": "pfs173_demo.eide-template",
-            "display_name": "padauk pfs173 demo (sdcc, pdk15)",
+            "file_name": "PFS154-S16.ept",
+            "display_name": "PFS154-S16 quickstart (sdcc, pdk14)",
             "category": [
                 "MCU/Padauk/MTP"
             ],
-            "version": "1.2",
+            "version": "1.0",
             "author": "github0null"
         },
         {
