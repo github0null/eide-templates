@@ -653,15 +653,6 @@
             "author": "AllenMaa"
         },
         {
-            "file_name": "stm32f1xx_blink_demo.eide-template",
-            "display_name": "STM32F1XX Blink Demo (STM32F10x StdPeriph Lib V3.5.0)",
-            "category": [
-                "MCU/ST/STM32/STM32F1"
-            ],
-            "version": "1.3",
-            "author": "github0null"
-        },
-        {
             "file_name": "stm32f1xx_gcc_quickstart.ept",
             "display_name": "STM32F1XX Blink Demo (GCC Toolchain)",
             "category": [
