@@ -608,15 +608,6 @@
             "author": "github0null"
         },
         {
-            "file_name": "stm8s103f3_dht11_sensor_quickstart.eide-template",
-            "display_name": "STM8S103F3 Quickstart (DHT11 Sensor)",
-            "category": [
-                "MCU/ST/STM8/STM8S"
-            ],
-            "version": "1.2",
-            "author": "github0null"
-        },
-        {
             "file_name": "stm8s103f3_oled_quickstart.eide-template",
             "display_name": "STM8S103F3 Quickstart (OLED SSD1306)",
             "category": [
@@ -632,15 +623,6 @@
                 "MCU/ST/STM8/STM8S"
             ],
             "version": "1.4",
-            "author": "github0null"
-        },
-        {
-            "file_name": "mm32f103c8_quickstart.eide-template",
-            "display_name": "MM32F103C8 Demo (MindMotion MCU)",
-            "category": [
-                "MCU/MindMotion/MM32F"
-            ],
-            "version": "1.2",
             "author": "github0null"
         },
         {
@@ -662,32 +644,13 @@
             "author": "github0null"
         },
         {
-            "file_name": "stm32f1xx_gcc_quickstart.ept",
-            "display_name": "STM32F1XX Blink Demo (GCC Toolchain)",
-            "category": [
-                "MCU/ST/STM32/STM32F1"
-            ],
-            "version": "1.4",
-            "author": "github0null"
-        },
-        {
-            "file_name": "stm32f1xx_FreeRTOS_quickstart.eide-template",
+            "file_name": "stm32f1xx_FreeRTOS_quickstart.ept",
             "display_name": "STM32F1XX Blink Demo (FreeRTOS)",
             "category": [
                 "MCU/ST/STM32/STM32F1",
                 "RTOS/FreeRTOS"
             ],
-            "version": "1.3",
-            "author": "github0null"
-        },
-        {
-            "file_name": "stm32f1xx_RT-Thread-Nano_quickstart.ept",
-            "display_name": "STM32F1XX Blink Demo (RT-Thread-Nano)",
-            "category": [
-                "MCU/ST/STM32/STM32F1",
-                "RTOS/RT-Thread/Nano"
-            ],
-            "version": "1.1",
+            "version": "1.4",
             "author": "github0null"
         },
         {
