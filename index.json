@@ -604,7 +604,7 @@
             "category": [
                 "MCU/ST/STM8/STM8S"
             ],
-            "version": "1.2",
+            "version": "1.3",
             "author": "github0null"
         },
         {
@@ -613,7 +613,7 @@
             "category": [
                 "MCU/ST/STM8/STM8S"
             ],
-            "version": "1.2",
+            "version": "1.3",
             "author": "github0null"
         },
         {
@@ -640,7 +640,7 @@
             "category": [
                 "MCU/ST/STM32/STM32F1"
             ],
-            "version": "1.3",
+            "version": "1.4",
             "author": "github0null"
         },
         {
@@ -669,7 +669,7 @@
                 "MCU/ST/STM32/STM32F4",
                 "RTOS/FreeRTOS"
             ],
-            "version": "1.2",
+            "version": "1.3",
             "author": "github0null"
         },
         {
@@ -1004,7 +1004,7 @@
             ],
             "version": "1.0",
             "author": "bobyang521"
-        },        
+        },
         {
             "file_name": "at32a403a_template.ept",
             "display_name": "at32a403a template (GCC Toolchain)",
