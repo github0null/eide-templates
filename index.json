@@ -692,6 +692,26 @@
             "author": "github0null"
         },
         {
+            "file_name": "stm32_ucosii_armcc.ept",
+            "display_name": "STM32F103C8T6 Blink Demo (uCOS-II, SPL, ARMCC)",
+            "category": [
+                "MCU/ST/STM32/STM32F1",
+                "RTOS/uCOS-II"
+            ],
+            "version": "1.0",
+            "author": "Mecc"
+        },
+        {
+            "file_name": "stm32_ucosii_gnu.ept",
+            "display_name": "STM32F103C8T6 Blink Demo (uCOS-II, SPL, GCC)",
+            "category": [
+                "MCU/ST/STM32/STM32F1",
+                "RTOS/uCOS-II"
+            ],
+            "version": "1.0",
+            "author": "Mecc"
+        },
+        {
             "file_name": "ch58x.ept",
             "display_name": "CH58x demo (GCC Toolchain)",
             "category": [
