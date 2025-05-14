@@ -702,11 +702,31 @@
             "author": "Mecc"
         },
         {
-            "file_name": "stm32_ucosii_gnu.ept",
+            "file_name": "stm32_ucosii_gcc.ept",
             "display_name": "STM32F103C8T6 Blink Demo (uCOS-II, SPL, GCC)",
             "category": [
                 "MCU/ST/STM32/STM32F1",
                 "RTOS/uCOS-II"
+            ],
+            "version": "1.0",
+            "author": "Mecc"
+        },
+        {
+            "file_name": "stm32_rtthread_armcc.ept",
+            "display_name": "STM32F103C8T6 Blink Demo (RT-Thread, SPL, ARMCC)",
+            "category": [
+                "MCU/ST/STM32/STM32F1",
+                "RTOS/RT-Thread/Nano"
+            ],
+            "version": "1.0",
+            "author": "Mecc"
+        },
+        {
+            "file_name": "stm32_rtthread_gcc.ept",
+            "display_name": "STM32F103C8T6 Blink Demo (RT-Thread, SPL, GCC)",
+            "category": [
+                "MCU/ST/STM32/STM32F1",
+                "RTOS/RT-Thread/Nano"
             ],
             "version": "1.0",
             "author": "Mecc"
