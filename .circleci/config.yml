@@ -6,6 +6,16 @@ jobs:
     steps:
       - checkout
       - run:
+          name: Checkout PR commit if CIRCLE_PR_NUMBER exists
+          command: |
+            if [ -n "$CIRCLE_PR_NUMBER" ]; then
+              echo "Checking out PR #$CIRCLE_PR_NUMBER commit..."
+              git fetch origin pull/$CIRCLE_PR_NUMBER/head:pr-$CIRCLE_PR_NUMBER
+              git checkout pr-$CIRCLE_PR_NUMBER
+            else
+              echo "No PR number, using default checkout."
+            fi
+      - run:
           name: 检查 template_list 里的 file_name 是否存在（排除 "null"）
           command: |
             node -e '
