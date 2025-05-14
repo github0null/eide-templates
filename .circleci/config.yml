@@ -1,32 +1,35 @@
 version: 2.1
 jobs:
-  check-index-json-files:
+  check-template-files:
     docker:
-      - image: cimg/base:current
+      - image: cimg/node:18.20.2
     steps:
       - checkout
       - run:
-          name: Check files listed in index.json exist in repository
+          name: 检查 template_list 里的 file_name 是否存在（排除 "null"）
           command: |
-            set -e
-            if ! command -v jq >/dev/null 2>&1; then
-              sudo apt-get update && sudo apt-get install -y jq
-            fi
-            files=$(jq -r '.[]' index.json)
-            missing=0
-            for file in $files; do
-              if [ ! -e "$file" ]; then
-                echo "Missing: $file"
-                missing=1
-              fi
-            done
-            if [ "$missing" -eq 1 ]; then
-              echo "Some files listed in index.json are missing in the repository." >&2
-              exit 1
-            else
-              echo "All files listed in index.json exist in the repository."
-            fi
+            node -e '
+              const fs = require("fs");
+              const path = require("path");
+              const index = JSON.parse(fs.readFileSync("index.json", "utf8"));
+              let missing = [];
+              for (const tpl of index.template_list) {
+                if (tpl.file_name && tpl.file_name !== "null") {
+                  if (!fs.existsSync(path.join(".", tpl.file_name))) {
+                    missing.push(tpl.file_name);
+                  }
+                }
+              }
+              if (missing.length > 0) {
+                console.error("以下模板文件缺失:");
+                for (const f of missing) console.error(f);
+                process.exit(1);
+              } else {
+                console.log("所有模板文件都存在。");
+              }
+            '
 workflows:
-  check-index-json-workflow:
+  version: 2
+  check-templates:
     jobs:
-      - check-index-json-files
+      - check-template-files
