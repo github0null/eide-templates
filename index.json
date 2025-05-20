@@ -720,7 +720,7 @@
             "display_name": "STM32F103C8T6 Blink Demo (CMSIS-RTOS RTX, SPL, ARMCC)",
             "category": [
                 "MCU/ST/STM32/STM32F1",
-                "CMSIS-RTOS_RTX"
+                "RTOS/CMSIS-RTOS_RTX"
             ],
             "version": "1.0",
             "author": "Mecc"
@@ -730,7 +730,7 @@
             "display_name": "STM32F103C8T6 Blink Demo (CMSIS-RTOS RTX, SPL, GCC)",
             "category": [
                 "MCU/ST/STM32/STM32F1",
-                "CMSIS-RTOS_RTX"
+                "RTOS/CMSIS-RTOS_RTX"
             ],
             "version": "1.0",
             "author": "Mecc"
@@ -740,7 +740,7 @@
             "display_name": "STM32F407VGT6 Blink Demo (CMSIS-RTOS RTX, SPL, GCC)",
             "category": [
                 "MCU/ST/STM32/STM32F4",
-                "CMSIS-RTOS_RTX"
+                "RTOS/CMSIS-RTOS_RTX"
             ],
             "version": "1.0",
             "author": "Mecc"
