@@ -244,6 +244,10 @@
             "display_name": "FreeRTOS",
             "description": ""
         },
+        "RTOS/CMSIS-RTOS_RTX": {
+            "display_name": "CMSIS-RTOS RTX",
+            "description": ""
+        },
         "RTOS/uCOS-II": {
             "display_name": "uCOS-II",
             "description": ""
@@ -702,11 +706,40 @@
             "author": "Mecc"
         },
         {
-            "file_name": "stm32_ucosii_gcc.ept",
-            "display_name": "STM32F103C8T6 Blink Demo (uCOS-II, SPL, GCC)",
+            "file_name": "stm32_rtx_armcc.ept",
+            "display_name": "STM32F103C8T6 Blink Demo (CMSIS-RTOS RTX, SPL, ARMCC)",
             "category": [
                 "MCU/ST/STM32/STM32F1",
-                "RTOS/uCOS-II"
+                "CMSIS-RTOS_RTX"
+            ],
+            "version": "1.0",
+            "author": "Mecc"
+        },
+        {
+            "file_name": "stm32_rtx_gcc.ept",
+            "display_name": "STM32F103C8T6 Blink Demo (CMSIS-RTOS RTX, SPL, GCC)",
+            "category": [
+                "MCU/ST/STM32/STM32F1",
+                "CMSIS-RTOS_RTX"
+            ],
+            "version": "1.0",
+            "author": "Mecc"
+        },
+        {
+            "file_name": "stm32f4xx_rtx_gcc.ept",
+            "display_name": "STM32F407VGT6 Blink Demo (CMSIS-RTOS RTX, SPL, GCC)",
+            "category": [
+                "MCU/ST/STM32/STM32F4",
+                "CMSIS-RTOS_RTX"
+            ],
+            "version": "1.0",
+            "author": "Mecc"
+        },
+        {
+            "file_name": "stm32f4xx_gcc.ept",
+            "display_name": "STM32F407VGT6 Blink Demo (SPL, GCC)",
+            "category": [
+                "MCU/ST/STM32/STM32F4"
             ],
             "version": "1.0",
             "author": "Mecc"
