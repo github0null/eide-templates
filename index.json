@@ -297,8 +297,8 @@
             "author": "Ankali-Aylina"
         },
         {
-            "file_name": "GD32VW553_GCC_Demo.ept",
-            "display_name": "GD32VW553 Demo",
+            "file_name": "gd32vm553_gcc.ept",
+            "display_name": "GD32VW553 GCC Demo",
             "category": [
                 "MCU/GD32/RISCV/W5"
             ],
