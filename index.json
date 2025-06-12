@@ -192,7 +192,7 @@
             "display_name": "F1",
             "description": "GD32VF1xx"
         },
-        "MCU/GD32/RISCV/VW5": {
+        "MCU/GD32/RISCV/W5": {
             "display_name": "VW5",
             "description": "GD32VW553"
         },
