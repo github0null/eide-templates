@@ -296,7 +296,6 @@
             "version": "1.0",
             "author": "Ankali-Aylina"
         },
-    "template_list": [
         {
             "file_name": "gd32vm553_gcc.ept",
             "display_name": "GD32VW553X GCC Template",
