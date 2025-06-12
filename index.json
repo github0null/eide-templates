@@ -297,10 +297,10 @@
             "author": "Ankali-Aylina"
         },
         {
-            "file_name": "GD32VW553_GCC.ept",
-            "display_name": "GD32VW553 GCC Template",
+            "file_name": "GD32VW553_GCC_Demo.ept",
+            "display_name": "GD32VW553 Demo",
             "category": [
-                "MCU/GD32/RISCV/VW5"
+                "MCU/GD32/RISCV/W5"
             ],
             "version": "1.0",
             "author": "P4rfa1t"
