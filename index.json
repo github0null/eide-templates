@@ -192,6 +192,10 @@
             "display_name": "F1",
             "description": "GD32VF1xx"
         },
+        "MCU/GD32/RISCV/W5": {
+            "display_name": "W5",
+            "description": "GD32VW553"
+        },
         "MCU/NXP": {
             "display_name": "NXP",
             "description": ""
@@ -291,6 +295,15 @@
             ],
             "version": "1.0",
             "author": "Ankali-Aylina"
+        },
+        {
+            "file_name": "gd32vw553_gcc.ept",
+            "display_name": "GD32VW553 GCC Demo",
+            "category": [
+                "MCU/GD32/RISCV/W5"
+            ],
+            "version": "1.0",
+            "author": "P4rfa1t"
         },
         {
             "file_name": "PY32F002AF15P6TU.ept",
