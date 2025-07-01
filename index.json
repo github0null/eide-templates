@@ -699,13 +699,13 @@
             "author": "github0null"
         },
         {
-            "file_name": "stm32f103c8_cubemx_ucos-ii.b016428657d6fb81ab5f7ae231c1c98d.ept",
+            "file_name": "stm32f103c8_cubemx_ucos-ii.ept",
             "display_name": "STM32F103C8 Blink Demo (uCOS-II, STM32CubeMX, ARMCC)",
             "category": [
                 "MCU/ST/STM32/STM32F1",
                 "RTOS/uCOS-II"
             ],
-            "version": "1.2",
+            "version": "1.3",
             "author": "github0null"
         },
         {
@@ -715,8 +715,8 @@
                 "MCU/ST/STM32/STM32F1",
                 "RTOS/uCOS-II"
             ],
-            "version": "1.0",
-            "author": "Mecc"
+            "version": "1.2",
+            "author": "Mecc,github0null"
         },
         {
             "file_name": "stm32_ucosii_armcc.ept",
