@@ -256,6 +256,10 @@
             "display_name": "uCOS-II",
             "description": ""
         },
+        "RTOS/uCOS-III": {
+            "display_name": "uCOS-III",
+            "description": ""
+        },
         "RTOS/RT-Thread/Nano": {
             "display_name": "Nano",
             "description": ""
@@ -286,6 +290,16 @@
         }
     },
     "template_list": [
+        {
+            "file_name": "stm32f103c8_ucos-iii_demo.ept",
+            "display_name": "STM32F103C8 UCOS-III Demo (uCOS-III, STM32CubeMX, GCC)",
+            "category": [
+                "MCU/ST/STM32/STM32F1",
+                "RTOS/uCOS-III"
+            ],
+            "version": "1.0",
+            "author": "github0null"
+        },
         {
             "file_name": "null",
             "display_name": "CW32L010 Template",
