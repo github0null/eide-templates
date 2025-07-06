@@ -291,13 +291,14 @@
     },
     "template_list": [
         {
-            "file_name": "stm32f103c8_ucos-iii_demo.ept",
-            "display_name": "STM32F103C8 UCOS-III Demo (uCOS-III, STM32CubeMX, GCC)",
+            "file_name": "ucos-iii_demo.ept",
+            "display_name": "UCOS-III Demo (STM32F1xx, STM32F4xx, GCC)",
             "category": [
                 "MCU/ST/STM32/STM32F1",
+                "MCU/ST/STM32/STM32F4",
                 "RTOS/uCOS-III"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
