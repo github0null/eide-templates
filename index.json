@@ -244,6 +244,14 @@
             "display_name": "gemini",
             "description": "Gemini Development Board"
         },
+        "MCU/TI": {
+            "display_name": "Texas Instruments",
+            "description": "德州仪器"
+        },
+        "MCU/TI/MSP430": {
+            "display_name": "MSP430xxx",
+            "description": "MSP430 Series"
+        },
         "RTOS": {
             "display_name": "RTOS",
             "description": "实时操作系统模板（Real-Time Operating System Templates）"
@@ -294,6 +302,15 @@
         }
     },
     "template_list": [
+        {
+            "file_name": "MSP-EXP430G2.ept",
+            "display_name": "MSP430G2 LaunchPad Demo (msp430-elf-gcc)",
+            "category": [
+                "MCU/TI/MSP430"
+            ],
+            "version": "1.0",
+            "author": "github0null"
+        },
         {
             "file_name": "ucos-iii_demo.ept",
             "display_name": "UCOS-III Demo For STM32G0xx/STM32F1xx/STM32F4xx (GCC)",
