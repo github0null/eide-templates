@@ -304,11 +304,11 @@
     "template_list": [
         {
             "file_name": "MSP-EXP430G2.ept",
-            "display_name": "MSP430G2 LaunchPad Demo (msp430-elf-gcc)",
+            "display_name": "MSP430G2 QuickStart Demo (msp430-elf-gcc)",
             "category": [
                 "MCU/TI/MSP430"
             ],
-            "version": "1.0",
+            "version": "1.1",
             "author": "github0null"
         },
         {
