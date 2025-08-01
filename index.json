@@ -252,6 +252,10 @@
             "display_name": "MSP430xxx",
             "description": "MSP430 Series"
         },
+        "MCU/TI/MSPM0": {
+            "display_name": "MSPM0xxx",
+            "description": "MSPM0 Series"
+        },
         "RTOS": {
             "display_name": "RTOS",
             "description": "实时操作系统模板（Real-Time Operating System Templates）"
@@ -302,6 +306,15 @@
         }
     },
     "template_list": [
+        {
+            "file_name": "MSPM0L1306.ept",
+            "display_name": "MSPM0L1306 QuickStart (arm-none-eabi-gcc)",
+            "category": [
+                "MCU/TI/MSPM0"
+            ],
+            "version": "1.0",
+            "author": "github0null"
+        },
         {
             "file_name": "MSP-EXP430G2.ept",
             "display_name": "MSP430G2 QuickStart Demo (msp430-elf-gcc)",
