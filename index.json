@@ -307,12 +307,21 @@
     },
     "template_list": [
         {
+            "file_name": "MSPM0G3507.ept",
+            "display_name": "MSPM0G3507 QuickStart (arm-none-eabi-gcc)",
+            "category": [
+                "MCU/TI/MSPM0"
+            ],
+            "version": "1.0",
+            "author": "github0null"
+        },
+        {
             "file_name": "MSPM0L1306.ept",
             "display_name": "MSPM0L1306 QuickStart (arm-none-eabi-gcc)",
             "category": [
                 "MCU/TI/MSPM0"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
