@@ -486,7 +486,7 @@
             "author": "github0null"
         },
         {
-            "file_name": "stm32f030xx_cpp_demo.eide-template",
+            "file_name": "stm32f030xx_cpp_demo.ept",
             "display_name": "STM32F030 C++ SDK (gcc toolchain, F030 series)",
             "category": [
                 "MCU/ST/STM32/C++"
