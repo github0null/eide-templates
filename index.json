@@ -606,7 +606,7 @@
             "category": [
                 "MCU/HDSC/HC32L"
             ],
-            "version": "1.3",
+            "version": "1.4",
             "author": "github0null"
         },
         {
@@ -615,8 +615,8 @@
             "category": [
                 "MCU/HDSC/HC32L"
             ],
-            "version": "1.1",
-            "author": "CAESIUS-TIM"
+            "version": "1.2",
+            "author": "CAESIUS-TIM,github0null"
         },
         {
             "file_name": "mcs51_dht11_sdcc_quickstart.ept",
