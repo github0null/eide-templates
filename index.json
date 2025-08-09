@@ -1,8 +1,8 @@
 {
     "category_map": {
         "MCU": {
-            "display_name": "Bare MCU",
-            "description": "裸机程序模板（Bare MCU Templates）"
+            "display_name": "MCU",
+            "description": "按微控制器型号分类的模板（Templates classified by mcu models）"
         },
         "MCU/AVR": {
             "display_name": "AVR",
@@ -103,6 +103,10 @@
         "MCU/ST/STM32/STM32F4": {
             "display_name": "STM32F4",
             "description": "F4 Series"
+        },
+        "MCU/ST/STM32/STM32H7": {
+            "display_name": "STM32H7",
+            "description": "H7 Series"
         },
         "MCU/ST/STM32/C++": {
             "display_name": "C++ SDK",
@@ -421,19 +425,21 @@
             "author": "github0null"
         },
         {
-            "file_name": "H750_FatFs_FreeRTOS_demo.eide-template",
+            "file_name": "stm32h750vb_FatFs_FreeRTOS.ept",
             "display_name": "STM32H750VBT6 QSPI_FLASH FreeRTOS FatFs demo (qspi, gcc, FreeRTOS, FatFs)",
             "category": [
+                "MCU/ST/STM32/STM32H7",
                 "Board/WeAct",
                 "RTOS/FreeRTOS"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "github0null"
         },
         {
             "file_name": "WeAct_H750_QSPI.eide-template",
             "display_name": "STM32H750VBT6 QSPI_FLASH FreeRTOS blink demo (qspi, gcc, FreeRTOS)",
             "category": [
+                "MCU/ST/STM32/STM32H7",
                 "Board/WeAct",
                 "RTOS/FreeRTOS"
             ],
@@ -444,6 +450,7 @@
             "file_name": "WeAct_H750_bootloader.eide-template",
             "display_name": "STM32H750VBT6 QSPI_FLASH bootloader (qspi, gcc, bootloader)",
             "category": [
+                "MCU/ST/STM32/STM32H7",
                 "Board/WeAct"
             ],
             "version": "1.2",
@@ -621,12 +628,12 @@
             "author": "github0null"
         },
         {
-            "file_name": "89c52_sdcc_demo.eide-template",
+            "file_name": "89c52_sdcc_demo.ept",
             "display_name": "89c52 sdcc demo (SDCC Toolchain)",
             "category": [
                 "MCU/8051"
             ],
-            "version": "1.2",
+            "version": "1.3",
             "author": "github0null"
         },
         {
