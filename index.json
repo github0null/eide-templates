@@ -612,12 +612,12 @@
             "author": "CAESIUS-TIM"
         },
         {
-            "file_name": "mcs51_sdcc_dht11_quickstart.eide-template",
+            "file_name": "mcs51_dht11_sdcc_quickstart.ept",
             "display_name": "8051 DHT11 Demo (SDCC Toolchain)",
             "category": [
                 "MCU/8051"
             ],
-            "version": "1.4",
+            "version": "1.5",
             "author": "github0null"
         },
         {
