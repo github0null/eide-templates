@@ -338,15 +338,15 @@
             "author": "github0null"
         },
         {
-            "file_name": "ucos-iii_demo.ept",
-            "display_name": "UCOS-III Demo For STM32G0xx/STM32F1xx/STM32F4xx (GCC)",
+            "file_name": "stm32_ucos-iii.ept",
+            "display_name": "STM32G0xx/STM32F1xx/STM32F4xx UCOS-III QuickStart (STM32CubeMX, GCC)",
             "category": [
                 "MCU/ST/STM32/STM32G0",
                 "MCU/ST/STM32/STM32F1",
                 "MCU/ST/STM32/STM32F4",
                 "RTOS/uCOS-III"
             ],
-            "version": "1.3",
+            "version": "1.4",
             "author": "github0null"
         },
         {
