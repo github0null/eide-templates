@@ -14,7 +14,7 @@
         },
         "MCU/8051": {
             "display_name": "8051",
-            "description": ""
+            "description": "The Universal 8051"
         },
         "MCU/WCH": {
             "display_name": "WCH",
@@ -620,7 +620,7 @@
         },
         {
             "file_name": "mcs51_dht11_sdcc_quickstart.ept",
-            "display_name": "8051 DHT11 Demo (SDCC Toolchain)",
+            "display_name": "8051 QuickStart With DHT11 Sensor (SDCC Toolchain)",
             "category": [
                 "MCU/8051"
             ],
@@ -629,7 +629,7 @@
         },
         {
             "file_name": "89c52_sdcc_demo.ept",
-            "display_name": "89c52 sdcc demo (SDCC Toolchain)",
+            "display_name": "8051 QuickStart (SDCC Toolchain)",
             "category": [
                 "MCU/8051"
             ],
@@ -637,8 +637,17 @@
             "author": "github0null"
         },
         {
-            "file_name": "stc15_demo.eide-template",
-            "display_name": "STC15xx Demo (Keil C51 Toolchain)",
+            "file_name": "stc15_keilc51.ept",
+            "display_name": "STC15xx QuickStart (KeilC51)",
+            "category": [
+                "MCU/STC/STC15"
+            ],
+            "version": "1.4",
+            "author": "github0null"
+        },
+        {
+            "file_name": "stc15_sdcc.ept",
+            "display_name": "STC15xx QuickStart (SDCC Toolchain)",
             "category": [
                 "MCU/STC/STC15"
             ],
@@ -646,21 +655,12 @@
             "author": "github0null"
         },
         {
-            "file_name": "stc15f104w_sdcc_demo.eide-template",
-            "display_name": "STC15F104W Demo (SDCC Toolchain)",
-            "category": [
-                "MCU/STC/STC15"
-            ],
-            "version": "1.2",
-            "author": "github0null"
-        },
-        {
-            "file_name": "stc8g_stc8h_sdcc_demo.ept",
-            "display_name": "STC8G/H Demo (SDCC Toolchain)",
+            "file_name": "stc8g_stc8h_sdcc.ept",
+            "display_name": "STC8G/H QuickStart (SDCC Toolchain)",
             "category": [
                 "MCU/STC/STC8"
             ],
-            "version": "1.1",
+            "version": "1.2",
             "author": "yunline"
         },
         {
