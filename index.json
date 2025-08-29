@@ -664,6 +664,15 @@
             "author": "yunline"
         },
         {
+            "file_name": "stc8h8g-gnu-sdcc-quickstart.ept",
+            "display_name": "STC8G/H QuickStart (SDCC + Binutils Toolchain)",
+            "category": [
+                "MCU/STC/STC8"
+            ],
+            "version": "1.0",
+            "author": "github0null"
+        },
+        {
             "file_name": "n76e003_demo.eide-template",
             "display_name": "N76E003 Demo (Keil C51 Toolchain)",
             "category": [
