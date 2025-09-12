@@ -311,6 +311,16 @@
     },
     "template_list": [
         {
+            "file_name": "stm32f1xx_cubemx_ucos-ii.ept",
+            "display_name": "STM32F103 CubeMX + uCOS-II QuickStart (arm-none-eabi-gcc)",
+            "category": [
+                "MCU/ST/STM32/STM32F1",
+                "RTOS/uCOS-II"
+            ],
+            "version": "1.0",
+            "author": "github0null"
+        },
+        {
             "file_name": "MSPM0G3507.ept",
             "display_name": "MSPM0G3507 QuickStart (arm-none-eabi-gcc)",
             "category": [
