@@ -260,6 +260,10 @@
             "display_name": "MSPM0xxx",
             "description": "MSPM0 Series"
         },
+        "MCU/TI/CCXXXX": {
+            "display_name": "CCXXXX Wireless",
+            "description": "CCXXXX Wireless Series (e.g. CC2510,CC1110)"
+        },
         "RTOS": {
             "display_name": "RTOS",
             "description": "实时操作系统模板（Real-Time Operating System Templates）"
@@ -310,6 +314,16 @@
         }
     },
     "template_list": [
+        {
+            "file_name": "cc2510_cc1110_sdcc_quickstart.ept",
+            "display_name": "CC2510/CC1110 SDCC QuickStart (SDCC)",
+            "category": [
+                "MCU/TI/CCXXXX",
+                "MCU/8051"
+            ],
+            "version": "1.0",
+            "author": "github0null"
+        },
         {
             "file_name": "stm32f1xx_cubemx_ucos-ii.ept",
             "display_name": "STM32F103 CubeMX + uCOS-II QuickStart (arm-none-eabi-gcc)",
