@@ -1131,6 +1131,33 @@
             ],
             "version": "1.0",
             "author": "bobyang521"
+        },
+        {
+            "file_name": "at32f011_template.ept",
+            "display_name": "at32f011 template (GCC Toolchain)",
+            "category": [
+                "MCU/Arterytek/AT32F4"
+            ],
+            "version": "1.0",
+            "author": "bobyang521"
+        },
+        {
+            "file_name": "at32f422_template.ept",
+            "display_name": "at32f422 template (GCC Toolchain)",
+            "category": [
+                "MCU/Arterytek/AT32F4"
+            ],
+            "version": "1.0",
+            "author": "bobyang521"
+        },
+        {
+            "file_name": "at32f426_template.ept",
+            "display_name": "at32f426 template (GCC Toolchain)",
+            "category": [
+                "MCU/Arterytek/AT32F4"
+            ],
+            "version": "1.0",
+            "author": "bobyang521"
         }
     ]
 }
